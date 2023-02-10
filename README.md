@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 📫 **Looking for someone to audit your Smart Contract**? 📫
-* Drop a line to **@jcr_auditor** in Telegrap or email me at **audits@jcrsecurity.io**  
+* Drop a line to **@jcr_auditor** in Telegram or email me at **audits@jcrsecurity.io**  
 
 Breaking things professionally since early 2016. Most of my career has been focused on offensive security and pentesting of "traditional" stuff like web, mobile or cloud but since 2021 I have been working full time as Smart Contract auditor.
 
