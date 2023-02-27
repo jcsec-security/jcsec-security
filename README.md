@@ -5,7 +5,7 @@
 
 Breaking things professionally since early 2016. Most of my career has been focused on offensive security and pentesting of "traditional" stuff like web, mobile or cloud but since 2021 I have been working full time as Smart Contract auditor.
 
-Recently started **teaching** a couple of **Solidity/EVM** security courses to 🌱blockchain mewcommers🌱
+Recently started **teaching** a couple of **Solidity/EVM** security courses to 🌱beginned blockchain developers🌱
 
 Current expertise:
 - CosmWasm (Rust) ⚡⚡⚡⚡⚡
