@@ -10,7 +10,7 @@ Recently started **teaching** a couple of **Solidity/EVM** security courses to �
 Current expertise:
 - CosmWasm (Rust) ⚡⚡⚡⚡⚡
 - Solidity/EVM    ⚡⚡⚡
-- NEAR (RUST)     ⚡
+- NEAR (Rust)     ⚡
 
 :mag::unlock: Currently auditing for [Oak Security](https://www.oaksecurity.io/) but also avilable for "solo audits" as a contractor.
 
