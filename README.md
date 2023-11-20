@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 📫 **Looking for someone to audit your Smart Contract**? 📫
-* Drop a line to **[@jcr_auditor](https://t.me/jcr_auditor)** in Telegram or email me at **audits@jcsec.xyz**  
+* Drop a line to **[@jcr_auditor](https://t.me/jcr_auditor)** in Telegram or email me at **jc@jcsec.io**  
 
 Breaking things professionally since early 2016. My whole career has been focused on offensive security and pentesting of "traditional" stuff like web, mobile or cloud but since 2021 I have been working full-time as Smart Contract auditor specializing in **CosmWasm/Rust**.
 
