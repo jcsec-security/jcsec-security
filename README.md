@@ -13,7 +13,7 @@ Current expertise:
 
 ---
 
-:mag::unlock: Auditing for the awesome [Oak Security](https://www.oaksecurity.io/), but available for "private audits" as a contractor too. 
+:mag::unlock: Auditing for the awesome [Oak Security](https://www.oaksecurity.io/), but available for ["private audits"](https://jcsec.io/services/) as a contractor too. 
 
 :eyeglasses::books: Teaching Smart Contract security at [University of Malaga](https://www.nics.uma.es/Blockchain/) and [IEBS bussiness school](https://www.iebschool.com/programas/master-en-blockchain-y-criptoactivos/)
 
