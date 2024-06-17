@@ -13,7 +13,7 @@ Current expertise:
 
 ---
 
-:mag::unlock: Auditing as part of the awesome [Oak Security](https://www.oaksecurity.io/) team and available for ["private audits"](https://jcsec.io/services/) as freelance security researcher as well. 
+:mag::unlock: Security engineer at [Matter Labs](https://matter-labs.io/)/[zkSync](https://zksync.io/) and available for ["private audits"](https://jcsec.io/services/) as a freelance security researcher as well. 
 
 :eyeglasses::books: Teaching Smart Contract security at [University of Malaga](https://www.nics.uma.es/Blockchain/) and [IEBS bussiness school](https://www.iebschool.com/programas/master-en-blockchain-y-criptoactivos/)
 
