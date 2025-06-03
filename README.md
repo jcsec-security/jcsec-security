@@ -8,8 +8,8 @@ I have been breaking things professionally since early 2016. My whole career has
 In addition, I **lecture** on **Solidity/EVM security** to 🌱blockchain students🌱 at some institutions and give workshops/talks on the topic occasionally.
 
 Current expertise:
-- CosmWasm smart contracts, Rust 
 - Solidity/EVM
+- CosmWasm smart contracts, Rust 
 
 ---
 
